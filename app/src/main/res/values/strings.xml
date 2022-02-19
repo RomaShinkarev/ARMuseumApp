@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Виртуальный музей истории</string>
+    <string name="qr_scan">Сканировать QR-код</string>
+    <string name="model_view">Посмотреть 3D модель</string>
+    <string name="model_url_1">https://cdn.glitch.global/967abfe1-382e-404b-b038-6c1994d00e9d/caska.glb?v=1645268250633</string>
+    <string name="model_url_2">https://cdn.glitch.global/967abfe1-382e-404b-b038-6c1994d00e9d/granata.glb?v=1645292333273</string>
+</resources>
